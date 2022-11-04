@@ -1,4 +1,4 @@
-#HomeWork 2: Bash Script
+<h1>HomeWork 2: Bash Script</h1>
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/BashPic.jpg)
 
