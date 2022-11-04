@@ -1,4 +1,5 @@
 #HomeWork 2: Bash Script
+
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/BashPic.jpg)
 
 In this homework we are asked to implement 3 basic bash scripts.
