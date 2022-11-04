@@ -7,9 +7,11 @@ Activating the scripts is pretty simple all you have to do is download them pres
 
 The first Script we were asked to read 2 numbers from the user sum them up
 and then write on the screen if they were greater/equal/less than 100
-Here is the script i wrote and an example run :
+Here is the script i wrote:
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash1.PNG)
+
+#### **Example Run**
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash1example.PNG)
 
@@ -19,9 +21,11 @@ Here is the script i wrote and an example run :
 
 In the second script we were asked to reads a temperature in Fahrenheit and converts
 it to Celcius
-Here is the script i wrote and an example run :
+Here is the script i wrote :
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash2.PNG)
+
+#### **Example Run**
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash2example.PNG)
 
@@ -30,8 +34,10 @@ Here is the script i wrote and an example run :
 
 
 In the third   script we were asked to take a path from the user and display the largest 10 files in this folder
-Here is the script i wrote and an example run :
+Here is the script i wrote  :
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash3.PNG)
+
+#### **Example Run**
 
 ![alt text](https://github.com/Samer99Najjar/Fursa_HW/blob/main/BashScript_HW1/pic/mybash3example.PNG)
